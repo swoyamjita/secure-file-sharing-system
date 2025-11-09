@@ -42,29 +42,6 @@ Clean folder separation for `client`, `server`, and `utils`, so everything’s e
 
 ---
 
-## 🧩 Folder Structure
-Finished_Version/
-│
-├── client/
-│ ├── uploads/ # Files to send
-│ ├── downloads/ # (Optional future feature)
-│ └── client.py
-│
-├── server/
-│ ├── uploads/ # Received + decrypted files
-│ ├── shared_files/ # Placeholder for future use
-│ ├── logs/ # Contains activity.log
-│ ├── users.txt # Username:hashed_password list
-│ └── server.py
-│
-├── utils/
-│ ├── config.py # Configuration (host, port, buffer size)
-│ └── encryption.py # Handles key generation + encryption logic
-│
-├── add_user.py # CLI tool to add new users
-├── README.md 
-└── requirements.txt # Dependencies list
-
 ## Technologies used
 Purpose	              Technology
 Networking	  -       Python socket
