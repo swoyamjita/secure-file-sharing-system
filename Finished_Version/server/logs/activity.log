@@ -1,0 +1,8 @@
+[2025-11-09 10:50:20] Server started and listening for connections.
+[2025-11-09 10:55:14] Server started and listening for connections.
+[2025-11-09 10:56:05] New connection from ('127.0.0.1', 65499)
+[2025-11-09 10:56:05] User 'admin' authenticated successfully from ('127.0.0.1', 65499)
+[2025-11-09 10:56:15] Error handling client ('127.0.0.1', 65499): not enough values to unpack (expected 2, got 1)
+[2025-11-09 10:57:02] New connection from ('127.0.0.1', 65504)
+[2025-11-09 10:57:02] User 'admin' authenticated successfully from ('127.0.0.1', 65504)
+[2025-11-09 10:57:08] File 'sample1.txt' uploaded successfully by 'admin'
